@@ -4,8 +4,8 @@ A demo smart contract project using django which connects to my solidity applica
 # The Django Application
 
 The application can be started with the following steps:
-1) install pipenv and run pipenv shell to activate the environment(If the above pipenv does not work)
-2) make sure to install django and web3 using pip install django and pip install web3
+1) install pipenv and run pipenv shell to activate the environment
+2) make sure to install django and web3 using pip install django and pip install web3(If the above pipenv does not work)
 3) run python mange.py makemigrations and python mange.py migrate (to create ur sqllite db)
 4) run python manage.py runserver, this will start the local server http://127.0.0.1:8000/
 5) Please enter the urls mentions below in Postman.
