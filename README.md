@@ -9,10 +9,10 @@ The application can be started with the following steps:
 3) run python manage.py runserver, this will start the local server http://127.0.0.1:8000/
 4) http://127.0.0.1:8000/RGToken/ with GET for the get functions
 5) http://127.0.0.1:8000/RGToken/ with POST will allow you to add your own transactions with following parameter<br >
-          a)sender_address<br >
-          b)reciever_address<br >
-          c)value<br >
-          d)primary_key<br >
+          a) sender_address<br >
+          b) reciever_address<br >
+          c) value<br >
+          d) primary_key<br >
 6) Then use the get function to get the details of the transaction with the primary key(please dont show ur primary key to anyone)<br >
 
 This is a very small project. I am still very inexperienced but am hoping to gain more experience by working on such projects
