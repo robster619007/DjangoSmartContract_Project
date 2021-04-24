@@ -1,13 +1,15 @@
 # DjangoSmartContract_Project
 a demo smart contract project using django which connects to my solidity application deployed on Etherscan
 
-#Smart Contract
+# Smart Contract
+
 Have used solidity as the main language to create the smart contract and deployed on ropsten etherscan test network. The transactions for my tokens can be found on the following link
 https://ropsten.etherscan.io/address/0x4e882e0fee2d7b55e5f360532e278d79ac85cf11#tokentxns
 Have used Web3 and Django Framework to call the functions created in the solidity application.
 Metamask was used to get the sender's address and reciever's addresses. Test ether was bought from the following link: https://faucet.ropsten.be/
 
-#The Django Application
+# The Django Application
+
 The application can be started with the following steps:
 1) install pipenv and run pipenv shell to activate the environment
 2) run python mange.py makemigrations and python mange.py migrate (to create ur sqllite db)
