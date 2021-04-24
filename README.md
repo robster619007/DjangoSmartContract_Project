@@ -1,15 +1,6 @@
 # DjangoSmartContract_Project
 A demo smart contract project using django which connects to my solidity application deployed on Etherscan
 
-# Smart Contract
-
-Have used solidity as the main language to create the smart contract and deployed on ropsten etherscan test network.<br > 
-The transactions for my tokens can be found on the following link<br ><br >
-https://ropsten.etherscan.io/address/0x4e882e0fee2d7b55e5f360532e278d79ac85cf11#tokentxns<br ><br >
-Have used Web3 and Django Framework to call the functions created in the solidity application.<br ><br >
-Metamask was used to get the sender's address and reciever's addresses. Test ether was bought from the following link: https://faucet.ropsten.be/<br ><br >
-You can check my code for the smart contract on https://github.com/robster619007/demoSoliditySC<br ><br >
-
 # The Django Application
 
 The application can be started with the following steps:
@@ -26,5 +17,14 @@ The application can be started with the following steps:
 
 This is a very small project. I am still very inexperienced but am hoping to gain more experience by working on such projects
 
+
+# Smart Contract
+
+Have used solidity as the main language to create the smart contract and deployed on ropsten etherscan test network.<br > 
+The transactions for my tokens can be found on the following link<br ><br >
+https://ropsten.etherscan.io/address/0x4e882e0fee2d7b55e5f360532e278d79ac85cf11#tokentxns<br ><br >
+Have used Web3 and Django Framework to call the functions created in the solidity application.<br ><br >
+Metamask was used to get the sender's address and reciever's addresses. Test ether was bought from the following link: https://faucet.ropsten.be/<br ><br >
+You can check my code for the smart contract on https://github.com/robster619007/demoSoliditySC<br ><br >
 
 
