@@ -7,6 +7,7 @@ Have used solidity as the main language to create the smart contract and deploye
 https://ropsten.etherscan.io/address/0x4e882e0fee2d7b55e5f360532e278d79ac85cf11#tokentxns
 Have used Web3 and Django Framework to call the functions created in the solidity application.
 Metamask was used to get the sender's address and reciever's addresses. Test ether was bought from the following link: https://faucet.ropsten.be/
+You can check my code for the smart contract on https://github.com/robster619007/demoSoliditySC
 
 # The Django Application
 
