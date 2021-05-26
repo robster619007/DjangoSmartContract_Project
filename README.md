@@ -17,9 +17,6 @@ The application can be started with the following steps:
           d) primary_key<br >
 6) Then use the get function to get the details of the transaction with the primary key(please dont show ur primary key to anyone)<br >
 
-This is a very small project. I am still very inexperienced but am hoping to gain more experience by working on such projects
-
-
 # Smart Contract
 
 Have used solidity as the main language to create the smart contract and deployed on ropsten etherscan test network.<br > 
